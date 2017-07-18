@@ -1,7 +1,13 @@
 today_in_history_4web
 <br/>英文项目名称today_in_history_4web，today_in_history指历史上的今天,意在查询历史上今天所发生过的大事件。
+
+
+
+
 # 简介 
-根据你所输入的日期,查询输入的这一天历史上发生的大事件(选取前五件事情)
+回顾历史的长河,历史是生活的一面镜子:历史上的每一天,都是喜忧参半,历史是不能忘记的.查看历史上的今天发生了,增长见识。通过用户输入日期(1月1日-12月31日),查询输入的这一天历史上发生的大事件(选取前五件事情)
+数据来源(https://www.juhe.cn/)
+API来源(http://api.juheapi.com/japi/toh?key=4bc027ace0535ecf7e935870a1b9deef&v=1.0&month=11&day=1) 
 
 
 		
