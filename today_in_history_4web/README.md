@@ -1,4 +1,5 @@
 today_in_history_4web
+英文项目名称today_in_history_4web，today_in_history指历史上的今天,意在查询历史上今天所发生过的大事件。
 
 
 
